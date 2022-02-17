@@ -1,6 +1,6 @@
-# Flutter Wallet App Ui
+# Flutter PraWallet App Ui
  With Dark & Light Theme
-- [Ui Credit](https://www.uplabs.com/posts/ewalle-portable-wallet)
+
  
 ![Banner](assets/light.png)
  
